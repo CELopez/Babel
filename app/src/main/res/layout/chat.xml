@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation ="vertical"
+    android:screenOrientation="portrait"
+    >
+
+    <ListView
+        android:id ="@+id/message_list"
+        android:layout_weight="100"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:divider="@null"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation ="vertical"
+        android:screenOrientation="portrait" >
+
+
+        <ToggleButton
+            android:text="micToggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/toggleButton"
+            android:textOff="mic off"
+            android:textOn="mic on"
+            android:onClick="micToggle"
+            android:layout_alignParentRight="true" />
+
+        <Button
+            android:id ="@+id/send_message"
+            android:text ="send"
+            android:background="@color/colorPrimary"
+            android:textColor="@android:color/white"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true" />
+
+    </RelativeLayout>
+
+</LinearLayout>

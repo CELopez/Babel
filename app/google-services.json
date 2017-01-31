@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "393832429382",
+    "firebase_url": "https://babel-e4e83.firebaseio.com",
+    "project_id": "babel-e4e83",
+    "storage_bucket": "babel-e4e83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393832429382:android:488c8b097f5a9c56",
+        "android_client_info": {
+          "package_name": "theacademy.babel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393832429382-q9fd5akaef23innp19donreu3c66v97a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkTihrd5XxQiFj9-A8_97YyYHGGkqobg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

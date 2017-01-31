@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_05db40d3ac2f7661cceba8a722699b9819703ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.2_4719562acc0d0ea43a98983857ac1a5a32c4e16b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_2c0d361e7406b1ebd2946fc57e7e81f1425a9260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_bc4fa2dcb6c28b5b5e1e7d3da7855b929734a04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_68b23047e744ae413a510585a2d5fdc1d858e487/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_46598f3c52e3c64acc225e121dd2cafaebb98eb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_b4aa702729c82c2e83760feab3c62963e37c9cab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_8a9408d5cfa64e95e2a53f88f7b01882780abfe8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_0de6410e0acf6c1bd29f688dd20014d7891827d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_111a2ec31615e0b35840f9d3b72d1b887a29c1c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_cf31e2ecee64110cca19a49239dbbf503d99ec29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c94ef106401d4363925199358a2dc6e1a7f2b59e">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_af24cb8225dbc5fe20bfd1e6c5942e4e32ac33b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_5da707b16e4ed8beb6fddf05ff42cd2a8299a19c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_fab1f0509a5df9e87285c134e54aaffe6859dedb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_0dd5e17ef9479a15b68850765d4fea76f2f331c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_0b83ac9e77c3ed15c38fdd62e6c32a5958356b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_80528a69e8f337c8ca99496a5519fdafe027fa8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.2_406d8bbda0d4dc41480be41d3e36f108ce515118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.ibm.watson.developer_cloud/android-sdk/0.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43d5483c99811e1921d4d4d5c704aa04e83236c6">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.ibm.watson.developer_cloud-android-sdk-0.2.1_c249e0cbfeb843abcf9cb36ee5e5d6063c14c56d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd6cb85fb2244c4c0507b1c1a580d33d12ea4124">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_dd9f6c2df0c718a3d1b8bb85bd0203bd1d3b9784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_d5d19baa99966e836eabf1478ca47f0c5e3ed88e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_7f305a3e52bc55e993c3c07b4a26139b2810f90a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_c347c200672aba71112a9ec1c3ac65431aa94e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/libs/java-sdk-3.5.3-jar-with-dependencies.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90bc36a168aeb00a8435c310d42e6ec559e8ec45">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/2/java-sdk-3.5.3-jar-with-dependencies_074ba518e475563e5a869159b9d78900319c43d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_4c0993b585c12cecb071a1a4fedd102521d39b53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_6f3b2c30ad9b26d31227e1928ad130b14bffc9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Aahan/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/4.2.2/5012450aee579c3118ff09461d5ce210e0cdc2a9/jna-4.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5012450aee579c3118ff09461d5ce210e0cdc2a9">
+        <dex dex="/Users/Aahan/Documents/Android_Applications/Babel/app/build/intermediates/transforms/dex/debug/folders/1000/10/jna-4.2.2_0f0cf664878265830c96e53807ebba7b105d1e13/classes.dex" />
+    </item>
+
+</items>
