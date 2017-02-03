@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.os.StrictMode;
 import android.speech.RecognizerIntent;
 import android.support.v7.app.ActionBarActivity;
+import android.util.Log;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
@@ -134,6 +135,15 @@ public class Call extends ActionBarActivity implements View.OnClickListener,
 
     }
 
+    private String getLangLocale(String lang) {
+        if (lang.equals("ar")) return"ar_EG";
+        else if (lang.equals("en")) return"en_US";
+        else if (lang.equals("es")) return"es_ES";
+        else if (lang.equals("fr")) return"fr_FR";
+        else if (lang.equals("it")) return"it_IT";
+        else return "pt_PT";
+    }
+
     public void changeLayout(View view) {
 
         final EditText recipient =  (EditText)findViewById(R.id.Recipient);
@@ -142,7 +152,7 @@ public class Call extends ActionBarActivity implements View.OnClickListener,
         mSender = sender.getText().toString();
         tempVoice = voiceList.get(voiceToTranslateTo.getSelectedItemPosition());
         lang = Language.valueOf(langToTranslateTo.getSelectedItem().toString());
-
+        Log.e("Lang:", lang.toString() + "\t" + getLangLocale(lang.toString()));
         setContentView(R.layout.chat);
 
         mListView = (ListView)findViewById(R.id.message_list);
@@ -204,7 +214,7 @@ public class Call extends ActionBarActivity implements View.OnClickListener,
                 Intent intent = new Intent(
                         RecognizerIntent.ACTION_RECOGNIZE_SPEECH);
 
-                intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE, "en-US");
+                intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE, getLangLocale(lang.toString()));
 
                 try {
                     startActivityForResult(intent, RESULT_SPEECH);
